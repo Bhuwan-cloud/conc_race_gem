@@ -6,7 +6,7 @@ It takes `number of threads` as `Cars` and cars have names with indivisual `powe
 
 # Console Demo 
 
-![Alt](https://res.cloudinary.com/bhuwan/image/upload/v1673886678/bhuwan/conc_race_concole_uwf4sj.png)
+![Alt](https://res.cloudinary.com/bhuwan/image/upload/v1673887802/bhuwan/conc_race_concole_gr3ums.png)
 
 # Web Browser Demo 
 
