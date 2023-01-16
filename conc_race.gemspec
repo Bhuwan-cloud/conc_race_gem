@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["bhuwanbhatt475@gmail.com"]
 
   spec.summary = "The Concurrency Analyzer Game for Ruby Programmers!"
-  spec.description = "It simplifies understaanding the Concurrent Thread Execution and Multithreading in Ruby Programming with a small console Car Race game"
+  spec.description = "It simplifies understanding the Concurrent Thread Execution and Multithreading in Ruby Programming with a small console Car Race game"
   spec.homepage = "https://github.com/Bhuwan-cloud/conc_race_gem"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
