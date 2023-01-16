@@ -16,7 +16,11 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+Run the Gem Code by calling 'run' method in module 'ConcRace'
+   $ irb> ConcRace.run 
+   OR 
+   $ irb> extend ConCRace
+   $ irb> run 
 
 ## Development
 
