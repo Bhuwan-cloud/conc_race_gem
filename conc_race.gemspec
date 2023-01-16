@@ -9,12 +9,10 @@ Gem::Specification.new do |spec|
   spec.email = ["bhuwanbhatt475@gmail.com"]
 
   spec.summary = "The Concurrency Analyzer Game for Ruby Programmers!"
-  spec.description = " It simplifies understaanding the concurrent thread execution and Multithreading in Ruby Programming with a small console Car Race game"
+  spec.description = "It simplifies understaanding the Concurrent Thread Execution and Multithreading in Ruby Programming with a small console Car Race game"
   spec.homepage = "https://github.com/Bhuwan-cloud/conc_race_gem"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
-
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/Bhuwan-cloud/conc_race_gem"
